@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Just Another Requiem List",
+    "description": "Just Another Requiem Modlist or JARL for short is a minimalistic Requiem modlist that is visually stunning while remaining under 4gb vram.",
+    "author": "Beth6",
+    "maintainers": [
+      "mccakit"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/ug40fUn.png",
+      "readme": "<link to your readme for your modlist>",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "Beth6URL",
+      "discordURL": "<your discord link here>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "QbvWyQoTJSk=",
+      "Size": 1824155121,
+      "NumberOfArchives": 598,
+      "SizeOfArchives": 42545261428,
+      "NumberOfInstalledFiles": 79727,
+      "SizeOfInstalledFiles": 53667025061
+    },
+    "version": "1.0"
+  }
+]
+
