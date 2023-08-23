@@ -5,7 +5,7 @@
     "description": "Just Another Requiem Modlist or JARL for short is a minimalistic Requiem modlist that is visually stunning while remaining under 4gb vram.",
     "author": "Beth6",
     "maintainers": [
-      "mccakit"
+      "github/mccakit"
     ],
     "game": "skyrimspecialedition",
     "tags": [
