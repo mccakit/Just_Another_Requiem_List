@@ -9,8 +9,9 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "testing",
-      "<any tags you want in the UI, each in its own string"
+      "Requiem",
+      "Noxcrab's Tweaks",
+      "Lightweight"
     ],
     "nsfw": false,
     "image_contains_title": false,
