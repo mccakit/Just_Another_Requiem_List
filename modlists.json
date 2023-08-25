@@ -18,7 +18,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/ug40fUn.png",
-      "readme": "<link to your readme for your modlist>",
+      "readme": "https://github.com/mccakit/Just_Another_Requiem_List/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Just%20Another%20Requiem%20Modlist.wabbajack_35150d30-8947-4955-924c-47f84b32f90d/",
       "machineURL": "Just_Another_Requiem_List/Just Another Requiem List",
       "discordURL": "<your discord link here>"
