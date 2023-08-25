@@ -19,18 +19,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/ug40fUn.png",
       "readme": "<link to your readme for your modlist>",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/Just%20Another%20Requiem%20Modlist.wabbajack_35150d30-8947-4955-924c-47f84b32f90d/",
       "machineURL": "Just_Another_Requiem_List/Just Another Requiem List",
       "discordURL": "<your discord link here>"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "QbvWyQoTJSk=",
-      "Size": 1824155121,
-      "NumberOfArchives": 598,
-      "SizeOfArchives": 42545261428,
-      "NumberOfInstalledFiles": 79727,
-      "SizeOfInstalledFiles": 53667025061
+      "Hash": "dvrPyPQB+9Q=",
+      "Size": 1224853326,
+      "NumberOfArchives": 620,
+      "SizeOfArchives": 45882768260,
+      "NumberOfInstalledFiles": 122186,
+      "SizeOfInstalledFiles": 60766373969
     },
     "version": "1.0"
   }
