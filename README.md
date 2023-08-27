@@ -2,7 +2,7 @@
 
 ![banner image](https://imgur.com/GURtm8H.png)
 
-Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
+Wabbajack Modlist Installer by Beth6.
 
 <table stlyle="border: none;">
 <tr>
@@ -156,7 +156,7 @@ You can tweak anything you want,most of them are self explanitory
 
 The core gameplay mods of this list are as follows:
 
-1)Requiem:Changes every gameplay aspect I suggest checking here: [discord](https://www.reddit.com/r/skyrimrequiem/comments/hijmml/guides_resources_links_for_beginners_and_advanced/)
+1)Requiem:Changes every gameplay aspect I suggest checking here: [reddit post](https://www.reddit.com/r/skyrimrequiem/comments/hijmml/guides_resources_links_for_beginners_and_advanced/)
 
 2)Experience:You level up by killing,exploring and doing quests
 
