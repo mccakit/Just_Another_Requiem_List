@@ -53,6 +53,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 - 16GB DDR4 Ram
 - SSD
 - A GPU with at least 4gb VRAM
+
 My specs (1080p):
 
 - Ryzen 3 3100
