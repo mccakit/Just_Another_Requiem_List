@@ -79,6 +79,7 @@ Prior to installing J.A.R.L, please complete the following steps.
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Start the game to the main menu in order to download all the creations.
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+9. Install Creation Kit(Clean install)
 
 ***
 
