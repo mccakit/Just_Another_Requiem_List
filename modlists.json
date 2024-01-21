@@ -20,18 +20,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://imgur.com/GURtm8H.png",
       "readme": "https://github.com/mccakit/Just_Another_Requiem_List/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Just%20Another%20Requiem%20List.wabbajack_8616f3b2-8d5d-4aa7-be4e-3f11df1ff578",
+      "download": "https://authored-files.wabbajack.org/Just%20Another%20Requiem%20List.wabbajack_f7c7251f-ef96-448e-a791-fd766fea9574",
       "machineURL": "Just_Another_Requiem_List",
       "discordURL": "<your discord link here>"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Uvrp7OqvH1g=",
-      "Size": 2243893754,
+      "Hash": "kjRWMkOKFrw=",
+      "Size": 2243891932,
       "NumberOfArchives": 692,
       "SizeOfArchives": 50608587473,
       "NumberOfInstalledFiles": 189995,
-      "SizeOfInstalledFiles": 80375185073
+      "SizeOfInstalledFiles": 80375185141
     },
     "version": "1.0"
   }
