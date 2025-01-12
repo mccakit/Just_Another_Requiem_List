@@ -26,12 +26,12 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "my/BTmiGtyo=",
-      "Size": 350478236,
-      "NumberOfArchives": 627,
-      "SizeOfArchives": 49479649988,
-      "NumberOfInstalledFiles": 99616,
-      "SizeOfInstalledFiles": 67758691675
+      "Hash": "H6H76fFyo0s=",
+      "Size": 361401932,
+      "NumberOfArchives": 657,
+      "SizeOfArchives": 54841180522,
+      "NumberOfInstalledFiles": 100584,
+      "SizeOfInstalledFiles": 68798666873
     },
     "version": "2.0"
   }
