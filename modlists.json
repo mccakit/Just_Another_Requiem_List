@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Just Another Requiem List",
-    "description": "Just Another Requiem Modlist or JARL for short is a minimalistic Requiem modlist that is visually stunning while remaining under 4gb vram.",
+    "description": "JARL is a minimalistic Requiem modlist that offers optimized graphics. List runs under 2.3GB VRAM while also looking great",
     "author": "Beth6",
     "maintainers": [
       "github/mccakit"
@@ -18,22 +18,22 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://imgur.com/GURtm8H.png",
+      "image": "https://imgur.com/a7HInBm",
       "readme": "https://github.com/mccakit/Just_Another_Requiem_List/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/JARL.wabbajack_e4ff7c1c-15c2-4296-b8b2-4df5da7b8a05",
+      "download": "https://authored-files.wabbajack.org/JARL.wabbajack_c1be3cc8-9d35-43e2-901a-8fec53bd88a6",
       "machineURL": "Just_Another_Requiem_List",
       "discordURL": "<your discord link here>"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "606ar7HY1mQ=",
-      "Size": 361401547,
-      "NumberOfArchives": 657,
-      "SizeOfArchives": 54841180522,
+      "Hash": "w8EQa5tMIo8=",
+      "Size": 389107141,
+      "NumberOfArchives": 665,
+      "SizeOfArchives": 54191596386,
       "NumberOfInstalledFiles": 100584,
       "SizeOfInstalledFiles": 68798666842
     },
-    "version": "2.0"
+    "version": "2.1"
   }
 ]
 
